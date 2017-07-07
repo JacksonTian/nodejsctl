@@ -1,0 +1,13 @@
+{
+  "name": "nodejsctl",
+  "version": "1.0.0",
+  "description": "The Node.js App ctrl script",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodejsctl": "bin/nodejsctl.sh"
+  },
+  "author": "Jackson Tian",
+  "license": "MIT"
+}
